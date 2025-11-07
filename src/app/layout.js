@@ -10,8 +10,8 @@ const poppins = Poppins({
  })
 
 export const metadata = {
-  title: 'Muvico - Next Js Personal & Minimal Portfolio Template',
-  description: 'Muvico - Next Js Personal & Minimal Portfolio Template',
+  title: 'Sdornala. - Website Agency & Startup Studio',
+  description: 'Sdornala. - Website Agency & Startup Studio providing Digital Products and Services turns to focus on client success.',
 }
 
 export default function RootLayout({ children }) {
