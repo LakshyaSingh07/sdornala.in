@@ -124,14 +124,14 @@ export default function Navlight() {
           <Link className="logo" href="/">
             <span className="inline-block dark:hidden">
               <Image
-                src="/images/logo-dark.png"
+                src="/images/sd_bg.svg"
                 width={109}
                 height={20}
                 className="h-5 l-dark"
                 alt=""
               />
               <Image
-                src="/images/logo-white.png"
+                src="/images/sd_bg.svg"
                 width={109}
                 height={20}
                 className="h-5 l-light"
@@ -139,7 +139,7 @@ export default function Navlight() {
               />
             </span>
             <Image
-              src="/images/logo-light.png"
+              src="/images/sd_bg.svg"
               width={109}
               height={20}
               className="hidden h-5 dark:inline-block"
@@ -166,7 +166,7 @@ export default function Navlight() {
             <li className="inline mb-0">
               <Link
                 href=""
-                className="h-8 w-8 inline-flex items-center justify-center tracking-wide align-middle duration-500 text-[15px] text-center rounded-xl bg-orange-500 hover:bg-orange-600 border border-orange-500 hover:border-orange-600 text-white"
+                className="h-8 w-8 inline-flex items-center justify-center tracking-wide align-middle duration-500 text-[15px] text-center rounded-xl bg-[#60d94a] hover:bg-orange-600 border border-orange-500 hover:border-orange-600 text-white"
               >
                 <FiDribbble className="h-[14px] w-[14px] align-middle" />
               </Link>
@@ -174,7 +174,7 @@ export default function Navlight() {
             <li className="inline mb-0">
               <Link
                 href=""
-                className="h-8 w-8 inline-flex items-center justify-center tracking-wide align-middle duration-500 text-[15px] text-center rounded-xl bg-orange-500 hover:bg-orange-600 border border-orange-500 hover:border-orange-600 text-white"
+                className="h-8 w-8 inline-flex items-center justify-center tracking-wide align-middle duration-500 text-[15px] text-center rounded-xl bg-[#60d94a] hover:bg-orange-600 border border-orange-500 hover:border-orange-600 text-white"
               >
                 <FiLinkedin className="h-[14px] w-[14px] align-middle" />
               </Link>
@@ -182,7 +182,7 @@ export default function Navlight() {
             <li className="inline mb-0">
               <Link
                 href=""
-                className="h-8 w-8 inline-flex items-center justify-center tracking-wide align-middle duration-500 text-[15px] text-center rounded-xl bg-orange-500 hover:bg-orange-600 border border-orange-500 hover:border-orange-600 text-white"
+                className="h-8 w-8 inline-flex items-center justify-center tracking-wide align-middle duration-500 text-[15px] text-center rounded-xl bg-[#60d94a] hover:bg-orange-600 border border-orange-500 hover:border-orange-600 text-white"
               >
                 <FiGithub className="h-[14px] w-[14px] align-middle" />
               </Link>
