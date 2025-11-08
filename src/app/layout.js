@@ -1,4 +1,4 @@
-
+import { Analytics } from "@vercel/analytics/next"
 import { Poppins } from 'next/font/google'
 import './assets/css/tailwind.css'
 import './assets/css/materialdesignicons.min.css'
