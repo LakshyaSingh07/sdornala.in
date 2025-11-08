@@ -1,7 +1,7 @@
 {
-  "name": "muvico",
+  "name": "sdornala",
   "version": "1.0.0",
-  "description": "Muvico - Next Js Personal & Minimal Portfolio Template",
+  "description": "Sdornala - Website Agency & Brand Building",
   "private": true,
   "scripts": {
     "dev": "next dev",
