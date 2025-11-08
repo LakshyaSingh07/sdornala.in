@@ -156,7 +156,7 @@ export default function Navbar() {
             <li className="inline mb-0">
               <Link
                 href=""
-                className="h-8 w-8 inline-flex items-center justify-center tracking-wide align-middle duration-500 text-[15px] text-center rounded-xl bg-[#60d94a] hover:bg-orange-600 border border-[#60d94a] hover:border-orange-600 text-white"
+                className="nav-social tracking-wide align-middle text-center"
               >
                 <FiDribbble className="h-[14px] w-[14px] align-middle" />
               </Link>
@@ -164,7 +164,7 @@ export default function Navbar() {
             <li className="inline mb-0">
               <Link
                 href=""
-                className="h-8 w-8 inline-flex items-center justify-center tracking-wide align-middle duration-500 text-[15px] text-center rounded-xl bg-[#60d94a] hover:bg-orange-600 border border-[#60d94a] hover:border-orange-600 text-white"
+                className="nav-social tracking-wide align-middle text-center"
               >
                 <FiLinkedin className="h-[14px] w-[14px] align-middle" />
               </Link>
@@ -172,14 +172,14 @@ export default function Navbar() {
             <li className="inline mb-0">
               <Link
                 href=""
-                className="h-8 w-8 inline-flex items-center justify-center tracking-wide align-middle duration-500 text-[15px] text-center rounded-xl bg-[#60d94a] hover:bg-orange-600 border border-[#60d94a] hover:border-orange-600 text-white"
+                className="nav-social tracking-wide align-middle text-center"
               >
                 <FiGithub className="h-[14px] w-[14px] align-middle" />
               </Link>
             </li>
           </ul>
 
-          {/* <div className="w-32 h-32 bg-[#60d94a]">Hell!!</div> */}
+          {/* <div className="w-32 h-32 bg-brandgreen">Hell!!</div> */}
 
           <div
             id="navigation"
